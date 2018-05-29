@@ -1,0 +1,5 @@
+[
+  "parametrize/test_mathlib.py::test_calc_square[5-25]", 
+  "parametrize/test_mathlib.py::test_calc_square[9-81]", 
+  "parametrize/test_mathlib.py::test_calc_square[10-100]"
+]
